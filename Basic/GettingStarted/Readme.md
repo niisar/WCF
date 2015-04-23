@@ -1,0 +1,1 @@
+This is my first wcf service and console client
