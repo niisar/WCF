@@ -1,0 +1,6 @@
+c:\users\n\documents\visual studio 2013\Projects\service\service\bin\service.dll.config
+c:\users\n\documents\visual studio 2013\Projects\service\service\bin\service.dll
+c:\users\n\documents\visual studio 2013\Projects\service\service\bin\service.pdb
+c:\users\n\documents\visual studio 2013\Projects\service\service\obj\Debug\service.csprojResolveAssemblyReference.cache
+c:\users\n\documents\visual studio 2013\Projects\service\service\obj\Debug\service.dll
+c:\users\n\documents\visual studio 2013\Projects\service\service\obj\Debug\service.pdb
