@@ -1,0 +1,6 @@
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\bin\PostAjaxService.dll.config
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\bin\PostAjaxService.dll
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\bin\PostAjaxService.pdb
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\obj\Debug\PostAjaxService.csprojResolveAssemblyReference.cache
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\obj\Debug\PostAjaxService.dll
+G:\git\WCF Practice\Basic\AJAX\PostAjaxService\PostAjaxService\obj\Debug\PostAjaxService.pdb
