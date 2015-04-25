@@ -1,4 +1,4 @@
-![WCF_Practice_Basic_AJAX_JSONP](http://googledrive.com/host/0B62pD4e2tOV0fmY3b1hvdTR5dmRWRllXQW5uZmdZZ1cyREU5bEhqdXhSU3haSmdwcl9EMjg/WCF_Practice_Basic_AJAX_JSONP.jpg)
+![WCF_Practice_Basic_AJAX_JSONP]([https://github.com/niisar/WCF/blob/master/Basic/AJAX/JSONP/img_jsonp.JPG](https://github.com/niisar/WCF/blob/master/Basic/AJAX/JSONP/img_jsonp.JPG))
 
 ### This sample demonstrates how to support JSON with Padding (JSONP) in WCF REST services. 
 ---------
