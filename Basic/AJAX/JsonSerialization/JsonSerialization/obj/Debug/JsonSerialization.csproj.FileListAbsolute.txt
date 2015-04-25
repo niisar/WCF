@@ -1,0 +1,6 @@
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe.config
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.exe
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\bin\Debug\JsonSerialization.pdb
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.csprojResolveAssemblyReference.cache
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.exe
+G:\git\WCF Practice\Basic\AJAX\JsonSerialization\JsonSerialization\obj\Debug\JsonSerialization.pdb
