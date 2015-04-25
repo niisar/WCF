@@ -1,0 +1,6 @@
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\bin\Service.dll.config
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\bin\Service.dll
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\bin\Service.pdb
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\obj\Debug\Service.dll
+G:\git\WCF Practice\Basic\AJAX\JSONP\Service\obj\Debug\Service.pdb

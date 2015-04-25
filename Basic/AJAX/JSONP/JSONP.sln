@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{5F4D043F-487E-4285-BFFE-C9EE65DB6AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{C2D83C9C-BAEC-4F6C-9BBC-833FDEB19B4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4D043F-487E-4285-BFFE-C9EE65DB6AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4D043F-487E-4285-BFFE-C9EE65DB6AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4D043F-487E-4285-BFFE-C9EE65DB6AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4D043F-487E-4285-BFFE-C9EE65DB6AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2D83C9C-BAEC-4F6C-9BBC-833FDEB19B4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2D83C9C-BAEC-4F6C-9BBC-833FDEB19B4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2D83C9C-BAEC-4F6C-9BBC-833FDEB19B4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2D83C9C-BAEC-4F6C-9BBC-833FDEB19B4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
