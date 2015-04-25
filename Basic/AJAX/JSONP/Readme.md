@@ -1,6 +1,6 @@
 ![img](https://raw.githubusercontent.com/niisar/WCF/master/Basic/AJAX/JSONP/img_jsonp.JPG)
 
-### This sample demonstrates how to support JSON with Padding (JSONP) in WCF REST services. 
+#### This sample demonstrates how to support JSON with Padding (JSONP) in WCF REST services. 
 ---------
  - The sample includes a Web page that dynamically adds a script block after the page has been rendered in the browser. 
  - This script block calls a WCF REST service that has a single operation, GetCustomer. 
