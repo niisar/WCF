@@ -25,7 +25,7 @@
 ##### Returns JSONP
 
 	Sys._json0({"__type":"Customer:#Microsoft.Samples.Jsonp","Address":"1 Example Way","Name":"Bob"});
-> ### _My Notes_
+> ### _Notes_
 > **System.ServiceModel.Activation.WebScriptServiceHostFactory**
 	Automatically adds an ASP.NET AJAX endpoint to a service, without requiring configuration, in a managed hosting environment that dynamically activates host instances for the service in response to incoming messages.
     
