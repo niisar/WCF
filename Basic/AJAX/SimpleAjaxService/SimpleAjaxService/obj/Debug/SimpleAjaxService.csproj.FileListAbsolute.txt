@@ -1,0 +1,6 @@
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\bin\SimpleAjaxService.dll.config
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\bin\SimpleAjaxService.dll
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\bin\SimpleAjaxService.pdb
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\obj\Debug\SimpleAjaxService.csprojResolveAssemblyReference.cache
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\obj\Debug\SimpleAjaxService.dll
+G:\git\WCF Practice\Basic\AJAX\SimpleAjaxService\SimpleAjaxService\obj\Debug\SimpleAjaxService.pdb

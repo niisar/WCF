@@ -1,0 +1,4 @@
+﻿<%@ ServiceHost Language="C#" Debug="true"
+                Service="SimpleAjaxService.Service1"
+                Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory"
+                CodeBehind="Service1.svc.cs" %>
