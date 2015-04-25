@@ -1,4 +1,4 @@
-![img]([https://raw.githubusercontent.com/niisar/WCF/master/Basic/AJAX/JSONP/img_jsonp.JPG])
+![img](https://raw.githubusercontent.com/niisar/WCF/master/Basic/AJAX/JSONP/img_jsonp.JPG)
 
 ### This sample demonstrates how to support JSON with Padding (JSONP) in WCF REST services. 
 ---------
